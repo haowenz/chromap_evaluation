@@ -5,6 +5,7 @@ Evaluation scripts for Chromap manuscript on different data are in their own fol
 We used the [paftools](https://github.com/lh3/minimap2/tree/master/misc) to evaluate the alignment results from Chromap and other aligners.
 
 ### ChIP-seq 
+All the ChIP-seq evaluation scripts are in its folder.
 
 ### Hi-C 
 All the Hi-C evaluation scripts are in its folder.
